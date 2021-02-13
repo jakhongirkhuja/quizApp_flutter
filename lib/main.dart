@@ -2,9 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:quizapp/quiz.dart';
 import './result.dart';
 import './quiz.dart';
-// void main() {
-//   runApp(MyApp());
-// }
 
 void main() => runApp(MyApp());
 
